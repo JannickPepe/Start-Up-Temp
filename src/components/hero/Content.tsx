@@ -43,7 +43,7 @@ export const Content = () => {
         }}
         className="mb-3 text-center text-3xl font-bold leading-tight text-zinc-50 sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-8xl lg:leading-tight"
       >
-        A landing page template that works for you
+        A <span className="bg-gradient-to-br from-blue-400 to-blue-700 bg-clip-text text-transparent">SASS</span> template that works for you
       </motion.h1>
       <motion.p
         initial={{
@@ -61,7 +61,7 @@ export const Content = () => {
         }}
         className="mb-9 max-w-2xl text-center text-base text-zinc-400 sm:text-lg md:text-xl"
       >
-        Build beautiful landing pages for your startups, clients, and side
+        Build beautiful SASS project for your startups, clients, and side
         projects, without having to think about design.
       </motion.p>
       <motion.div

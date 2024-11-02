@@ -45,7 +45,7 @@ export const CTA = () => {
           }}
           className="mb-9 max-w-xl text-center text-3xl font-bold leading-tight text-zinc-50 sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight"
         >
-          A landing page template that works for you
+          A SASS template that works for you
         </motion.h1>
         <motion.div
           initial={{
